@@ -1,5 +1,7 @@
 # 点触验证码 Nodejs DEMO
 
+#####[其他语言SDK以及JS API https://github.com/touclick/captcha-demo](https://github.com/touclick/captcha-demo)
+
 ### 开发环境
 * Nodejs 0.12.x
 
